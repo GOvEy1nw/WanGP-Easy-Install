@@ -23,7 +23,7 @@ Portable one-click installer for [WanGP (Wan2GP)](https://github.com/deepbeepmee
 | Driver version | Stack installed |
 |---------------|-----------------|
 | 580 or newer | PyTorch 2.10.0 + CUDA 13.0 (recommended) |
-| Below 580 | PyTorch 2.7.1 + CUDA 12.8 (legacy fallback — driver update strongly recommended) |
+| Below 580 | PyTorch 2.9.0 + CUDA 12.8 (legacy fallback — driver update strongly recommended) |
 
 The installer detects your driver automatically and selects the appropriate stack.
 
