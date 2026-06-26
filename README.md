@@ -1,3 +1,9 @@
+# Note
+
+I'm a big fan of [Tavris1/ComfyUI-Easy-Install](https://github.com/Tavris1/ComfyUI-Easy-Install), and wanted a similar solution for WanGP, but didn't find one as robust, so decided to try and adapt the ComfyUI version myself. Note: I'm more of a solutions architect than a coder, so I'm up-front clarifying that this is heavily coded by AI. But I've tested this on my systems (`5950x - 128gb ram - RTX 3090` and `19400k - 128gb ram - RTX 4070Ti Super`) and its working great for my needs, but wanted to share as I'm sure others will find it handy.
+
+If anyone wants to contribute any PRs to make it more robust and flexible, that'd be great!
+
 # WanGP Easy Install
 
 Portable one-click installer for [WanGP (Wan2GP)](https://github.com/deepbeepmeep/Wan2GP) on Windows with NVIDIA GPU.
